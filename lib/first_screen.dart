@@ -59,7 +59,7 @@ class FirstScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 20),
                   Text(
-                    'Ahmed Gamal',
+                    ' Gamal',
                     style: TextStyle(
                       fontSize: 30,
                       fontWeight: FontWeight.w900,
